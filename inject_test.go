@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/facebookgo/ensure"
-	"github.com/facebookgo/inject"
+	"github.com/elitecodegroovy/inject"
 
-	injecttesta "github.com/facebookgo/inject/injecttesta"
-	injecttestb "github.com/facebookgo/inject/injecttestb"
+	injecttesta "github.com/elitecodegroovy/inject/injecttesta"
+	injecttestb "github.com/elitecodegroovy/inject/injecttestb"
 )
 
 func init() {

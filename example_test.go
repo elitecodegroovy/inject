@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/facebookgo/inject"
+	"github.com/elitecodegroovy/inject"
 )
 
 // Our Awesome Application renders a message using two APIs in our fake
