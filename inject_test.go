@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/facebookgo/ensure"
+	"github.com/elitecodegroovy/ensure"
 	"github.com/elitecodegroovy/inject"
 
 	injecttesta "github.com/elitecodegroovy/inject/injecttesta"
