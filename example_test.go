@@ -2,10 +2,9 @@ package inject_test
 
 import (
 	"fmt"
+	"github.com/elitecodegroovy/inject"
 	"net/http"
 	"os"
-
-	"github.com/elitecodegroovy/inject"
 )
 
 // Our Awesome Application renders a message using two APIs in our fake
