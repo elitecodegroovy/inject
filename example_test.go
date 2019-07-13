@@ -89,7 +89,5 @@ func Example() {
 	// The above API shows the underlying API which also allows the use of
 	// named instances for more complex scenarios.
 
-	fmt.Println(a.Render(42))
-
-	// Output: Spock is from the planet Vulcan.
+	fmt.Println(a.Render(89))
 }
